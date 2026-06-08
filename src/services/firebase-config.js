@@ -15,15 +15,15 @@ import {
 import { getStorage, connectStorageEmulator } from 'firebase/storage';
 import { getMessaging } from 'firebase/messaging';
 
-// 🔧 استبدل هذه القيم بإعدادات مشروع Firebase الخاص بك
+// 🔧 إعدادات مشروع Firebase الخاص بك
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_PROJECT.firebaseapp.com",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_PROJECT.appspot.com",
-  messagingSenderId: "YOUR_SENDER_ID",
-  appId: "YOUR_APP_ID",
-  measurementId: "YOUR_MEASUREMENT_ID"
+  apiKey: "AIzaSyAQ5bLvStY20xJikoWkuSI5l1miScurk30",
+  authDomain: "al-abbasi-app.firebaseapp.com",
+  projectId: "al-abbasi-app",
+  storageBucket: "al-abbasi-app.firebasestorage.app",
+  messagingSenderId: "146522429317",
+  appId: "1:146522429317:web:62d58a0ef238318e4bd6ec",
+  measurementId: "G-F4L3TWP5EN"
 };
 
 // تهيئة التطبيق
