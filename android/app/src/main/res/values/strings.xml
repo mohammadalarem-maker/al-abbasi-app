@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">تطبيق العباسي</string>
+    <string name="title_activity_main">تطبيق العباسي</string>
+    <string name="package_name">com.alabbasi.supermarket</string>
+    <string name="custom_url_scheme">com.alabbasi.supermarket</string>
+</resources>
